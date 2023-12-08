@@ -4,7 +4,7 @@ Vai Ter Mesa é um projeto pessoal que surge do meu grande interesse por jogos d
 
 <div alinhar="centro">
 
-[Vai ter Mesa]( https://github.com/MatheusADamasceno/VaiterMesa/blob/main/vai%20ter%20mesa.png?raw=true )
+[Vai ter Mesa](https://github.com/MatheusADamasceno/VaiterMesa/blob/main/vai%20ter%20mesa.png?raw=true)
 
 </div>
 
