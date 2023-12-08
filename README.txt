@@ -1,65 +1,48 @@
-
-TITLE: 
-Savory - 100% Fully Responsive Free HTML5 Bootstrap Template
-
-AUTHOR:
-DESIGNED & DEVELOPED by GetTemplates.co
-
-Website: http://gettemplates.co/
-Twitter: http://twitter.com/gettemplatesco
-Facebook: http://facebook.com/gettemplatesco
+﻿# Bem Vindo
+Vai Ter Mesa é um projeto pessoal que surge do meu grande interesse por jogos de tabuleiro. Ao criar essa loja fictícia, utilizei HTML, CSS e JavaScript para unir minha paixão por jogos à minha habilidade no desenvolvimento web, resultando em projetos envolventes e cativantes.
 
 
-CREDITS:
+<div align="center">
 
-Bootstrap
-http://getbootstrap.com/
+![Vai ter Mesa](https://github.com/MatheusADamasceno/VaiterMesa/blob/main/vai%20ter%20mesa.png?raw=true)
 
-jQuery
-http://jquery.com/
+</div>
 
-jQuery Easing
-http://gsgd.co.uk/sandbox/jquery/easing/
 
-Modernizr
-http://modernizr.com/
+## Visualizar o Projeto
+Você pode visualizar o projeto clicando no link abaixo:
 
-Google Fonts
-https://www.google.com/fonts/
+[Abra o portfolio](https://vaitermesa.netlify.app)
 
-Icomoon
-https://icomoon.io/app/
 
-Themify Icons
-https://themify.me/themify-icons
+---
+<div id="tecnologias-utilizadas">
 
-Respond JS
-https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
+## Tecnologias usadas no projeto:
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+</div>
+<div align="right">
 
-animate.css
-http://daneden.me/animate
 
-jQuery Waypoint
-https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
+</div>
 
-Owl Carousel
-http://www.owlcarousel.owlgraphic.com/
+---
+<div id="contato">
 
-jQuery countTo
-http://www.owlcarousel.owlgraphic.com/
+## Contato:
+### Matheus Damasceno
+Alguns meios de contato:
+<div>
+<a href="https://wa.me/5562992060399" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+<a href = "mailto:matheusalvesdamascenotwd@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="www.linkedin.com/in/matheusalvesdamasceno" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+</div>
 
-Magnific Popup
-http://dimsemenov.com/plugins/magnific-popup/
 
-MomentJS
-https://github.com/moment/moment
 
-Bootstrap DateTimePicker
-http://eonasdan.github.io/bootstrap-datetimepicker/
+Fique à vontade para explorar os projetos, abrir issues ou sugerir melhorias. Seu feedback é valioso!
 
-Stellar Parallax
-http://markdalgleish.com/projects/stellar.js/
-
-Demo Images:
-http://unsplash.com
-
+Obrigado por visitar meu repositório pessoal! Espero que encontre algo que desperte seu interesse. 😊
