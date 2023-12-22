@@ -2,6 +2,14 @@
 Vai Ter Mesa é um projeto pessoal que surge do meu grande interesse por jogos de tabuleiro. Ao criar essa loja fictícia, utilizei HTML, CSS e JavaScript para unir minha paixão por jogos à minha habilidade no desenvolvimento web, resultando em projetos envolventes e cativantes.
 
 
+
+<div align="center">
+
+![Captura de tela - Mario Game](https://github.com/MatheusADamasceno/VaiterMesa/blob/main/vai%20ter%20mesa.png?raw=true)
+</div>
+
+
+
 <div alinhar="centro">
 
 [Meu Portfólio Completo](https://matheusprojectss.netlify.app)
@@ -32,12 +40,12 @@ Você pode visualizar o projeto clicando no link abaixo:
 <div id="contato">
 
 ## Contato:
-###Matheus Damasceno
+### Matheus Damasceno
 Alguns meios de contato:
-<div><a href=" https://wa.me/5562992060399 " target="_blank">
- <img src=" https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo= whatsapp&logoColor=branco "target="_blank"></a>
-<a href = "mailto:matheusalvesdamascenotwd@gmail.com"><img src=" https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white " target=" _em branco"></a><a href=" www.linkedin.com/in/matheusalvesdamasceno " target="_blank">
- <img src=" https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the- badge&logo=linkedin&logoColor=white " target="_blank"></a>   
+<div>
+<a href="https://wa.me/5562992060399" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+<a href = "mailto:matheusalvesdamascenotwd@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="www.linkedin.com/in/matheusalvesdamasceno" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 </div>
 
